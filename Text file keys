@@ -1,0 +1,11 @@
+Text file keys
+
+
+Beatmap.txt
+	Start Time, Target
+
+skilllist.txt
+	ID,Name,Damage, Heal, Crit Chance, Cooldown, Element, Status, Target	
+
+skillbonuseffects.txt
+	ID,Bonus Damage, Bonus Heal, Bonus Crit, Bonus Element, Bonus Status, Target change?

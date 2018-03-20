@@ -1,0 +1,5 @@
+ID,NAME,DAMAGE,HEAL,CRITCHANCE,COOLDOWN
+0,Attack,10,0,10,0 
+1,Double Attack,20,0,20,1
+2,Triple Attack,30,0,30,2
+3,Quadruple Attack,40,0,40,3 

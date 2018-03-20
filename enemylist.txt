@@ -1,0 +1,7 @@
+0,Slime,20,10,2,slime.tex,.75,0,.5,2
+0,7
+1,Sonic Slime,100,10,2,sonicslime.tex,.75,1.25,.5,2
+0,1
+2,King Slime,500,100,1,kingslime.tex,1.25,1.00,.5,2
+0,7
+END
